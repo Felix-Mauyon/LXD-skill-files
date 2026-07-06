@@ -15,10 +15,10 @@ You have four reference files that together replace 80% of the cognitive load in
  
 | File | Answers | Load when |
 |---|---|---|
-| `references/facts.md` | "What do I have in common with this person?" | Always for P.S. construction and connection hooks |
-| `references/playbook.md` | "How do I write the email?" | Always — house format, rules, voice, tracker |
-| `references/pov-inventory.md` | "What's the angle?" | Always — pick one POV per email |
-| `references/email-examples.md` | "Does this feel right?" | When calibrating tone or uncertain about format |
+| `facts.md` | "What do I have in common with this person?" | Always for P.S. construction and connection hooks |
+| `playbook.md` | "How do I write the email?" | Always — house format, rules, voice, tracker |
+| `pov-inventory.md` | "What's the angle?" | Always — pick one POV per email |
+| `email-examples.md` | "Does this feel right?" | When calibrating tone or uncertain about format |
  
 **Read all four files before drafting any email.** They are short. This takes 2 minutes. It prevents the default mistakes.
  
